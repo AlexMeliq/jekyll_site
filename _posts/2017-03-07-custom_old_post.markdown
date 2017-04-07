@@ -2,7 +2,8 @@
 layout: post
 title:  "I am a custom post"
 date:   2017-04-07 12:42:21 +0400
-categories: jekyll test
+categories: test
+tag: open
 ---
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -47,3 +47,11 @@ nav:
   Contact:
     title: 'Contact'
     url : '/contact'
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name
+  tags:
+    output: true
+    permalink: /:collection/:name
